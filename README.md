@@ -10,7 +10,7 @@ The challenge is to develop a technique using Artificial Intelligence (AI)
 to improve the accessibility and discoverability of records in the public
 NASA Technical Report Server ([NTRS](https://ntrs.nasa.gov/)).
 
-## Proposed solution
+## Proposed solution [:link:](./presentation/Team-Shockwave-Surfers-2022-Space-Apps-Challenge.pdf)
 
 Improve the accessibility and discoverability of records in the NTRS
 
