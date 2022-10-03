@@ -9,7 +9,21 @@
 The challenge is to develop a technique using Artificial Intelligence (AI)
 to improve the accessibility and discoverability of records in the public
 NASA Technical Report Server ([NTRS](https://ntrs.nasa.gov/)).
+
 ## Proposed solution
+
+Improve the accessibility and discoverability of records in the NTRS
+- The Search Algorithm (Librarian Analogy)
+  1. Enter query through the api
+  2. Receive a list of documents
+  3. Drill down into the full text of the document
+  4. Run NLP to get some statistics for ranking
+  
+ - automatically read NTRS documents
+    - summarize them (Pre-Trained),
+    - generate text analytic data (Word Cloud, Frequency Distribution Visualisation, Question Generation and Answering),
+    - produce a list of topic keywords to help researchers find the documents they need. 
+ - Delivering PDFs in a binder available for reading (with similar parts highlighted)
 
 
 ## Reference
