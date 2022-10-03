@@ -28,7 +28,7 @@ Improve the accessibility and discoverability of records in the NTRS
 
 ## Reference
 
-- Challenge specification pdf [:link:](https://cdn.glitch.global/593a4e3c-ebba-4732-879c-242327c0c3b8/challenge-details.pdf?v=1664482261566)
+- Challenge specification pdf [:link:](./reference/challenge-details.pdf)
 - An example query [:link:](https://ntrs.nasa.gov/api/citations/search?center=CDMS&sort=%7B%22field%22:%22published%22,%22order%22:%22desc%22%7D&subjectCategory=LUNAR%20AND%20PLANETARY%20EXPLORATION&title=IO)
   that returns json and defaults to the first 25 of 345 items.
 - json viewers
