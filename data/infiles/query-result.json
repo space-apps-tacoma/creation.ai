@@ -1,0 +1,209 @@
+[
+[
+{
+"_meta": {
+"score": 13.002186
+},
+"copyright": {
+"licenseType": "NO",
+"determinationType": "OTHER",
+"thirdPartyContentCondition": "NOT_SET"
+},
+"subjectCategories": [
+"LUNAR AND PLANETARY EXPLORATION"
+],
+"exportControl": {
+"isExportControl": "NO",
+"ear": "NO",
+"itar": "NO"
+},
+"created": "2013-08-12T01:11:00.0000000+00:00",
+"distributionDate": "2011-08-17T00:00:00.0000000+00:00",
+"center": {
+"code": "CDMS",
+"name": "Legacy CDMS",
+"id": "092d6e0881874968859b972d39a888dc"
+},
+"onlyAbstract": false,
+"sensitiveInformation": 2,
+"abstract": "A report on the continuing investigation of Io is presented. Gravitational resonance is discussed as the cause of Io's volcanism, and the volcanic activity is explained in terms of sulfur chemistry. Theories concerning the reasons for the two main types of volcanic eruptions on Io are advanced and correlated with geographical features of the satellite. The sulfur and silicate models of the calderas are presented, citing the strengths and weaknesses of each. Problems of the gravitational resonance theory of Io's heat source are then described. Finally, observations of Io planned for the Galileo mission are summarized.",
+"title": "Io",
+"stiType": "REPRINT",
+"distribution": "PUBLIC",
+"submittedDate": "2013-08-12T01:11:00.0000000+00:00",
+"isLessonsLearned": false,
+"authorAffiliations": [
+{
+"sequence": 0,
+"submissionId": 19840031406,
+"meta": {
+"author": {
+"name": "Johnson, T. V."
+},
+"organization": {
+"name": "California Institute of Technology, Jet Propulsion Laboratory, Pasadena",
+"location": "CA, United States"
+}
+},
+"id": "e45905411dd845f1b8a15eca5d61b3a4"
+},
+{
+"sequence": 1,
+"submissionId": 19840031406,
+"meta": {
+"author": {
+"name": "Soderblom, L. A."
+},
+"organization": {
+"name": "U.S. Geological Survey",
+"location": "Reston, VA, United States"
+}
+},
+"id": "9852369d17e74b00a490fd25e03fe540"
+}
+],
+"disseminated": "METADATA_ONLY",
+"stiTypeDetails": "Reprint (Version printed in journal)",
+"technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+"modified": "2011-08-17T00:00:00.0000000+00:00",
+"id": 19840031406,
+"publications": [
+{
+"volume": "249",
+"submissionId": 19840031406,
+"issn": "0036-8733",
+"id": "1bdfbf536ae94f55b94c6cc315d4f68e",
+"publicationName": "Scientific American",
+"publicationDate": "1983-12-01T00:00:00.0000000+00:00"
+}
+],
+"status": "CURATED",
+"related": [],
+"downloads": [],
+"downloadsAvailable": false,
+"index": "submissions-2022-09-30-06-07"
+},
+{
+"_meta": {
+"score": 12.955498
+},
+"copyright": {
+"licenseType": "NO",
+"determinationType": "OTHER",
+"thirdPartyContentCondition": "NOT_SET"
+},
+"subjectCategories": [
+"LUNAR AND PLANETARY EXPLORATION"
+],
+"exportControl": {
+"isExportControl": "NO",
+"ear": "NO",
+"itar": "NO"
+},
+"created": "2013-08-13T03:46:00.0000000+00:00",
+"distributionDate": "2011-08-18T00:00:00.0000000+00:00",
+"center": {
+"code": "CDMS",
+"name": "Legacy CDMS",
+"id": "092d6e0881874968859b972d39a888dc"
+},
+"onlyAbstract": false,
+"sensitiveInformation": 2,
+"abstract": "The present work reviews the history of Io studies and describes the current level of understanding of Io's physics, chemistry, geology, orbital  dynamics, and geophysics. Consideration is given to the satellite's internal, superficial, atmospheric, plasma, and magnetospheric properties and how they interrelate. A pictorial map of Io's surface based on Voyager 1 and 2 images is presented. It is found that Io's surface color and spectra are dominated by sulfur compounds which may include various sulfur allotropes. Volcanic processes yielding three kinds of surface features (vent regions, plains, and mountains) dominate Io's surface geology. The Io plasma torus corotates with Jupiter's magnetic field in the plane of Jupiter's centrifugal equator centered at Io's orbital radius.",
+"title": "Io",
+"stiType": "CONFERENCE_PROCEEDINGS",
+"distribution": "PUBLIC",
+"submittedDate": "2013-08-13T03:46:00.0000000+00:00",
+"isLessonsLearned": false,
+"authorAffiliations": [
+{
+"sequence": 0,
+"submissionId": 19870036046,
+"meta": {
+"author": {
+"name": "Nash, Douglas B."
+},
+"organization": {
+"name": "Jet Propulsion Lab., California Inst. of Tech.",
+"location": "Pasadena, CA, United States"
+}
+},
+"id": "6ab65d0936d84314b796e4e155052fbb"
+},
+{
+"sequence": 1,
+"submissionId": 19870036046,
+"meta": {
+"author": {
+"name": "Yoder, Charles F."
+},
+"organization": {
+"name": "California Institute of Technology",
+"location": "Jet Propulsion Laboratory, Pasadena, United States"
+}
+},
+"id": "9859146578b94930a5438800af89f2ad"
+},
+{
+"sequence": 2,
+"submissionId": 19870036046,
+"meta": {
+"author": {
+"name": "Carr, Michael H."
+},
+"organization": {
+"name": "USGS",
+"location": "Reston, VA, United States"
+}
+},
+"id": "f973168484a74394bcf00f2b07261c3d"
+},
+{
+"sequence": 3,
+"submissionId": 19870036046,
+"meta": {
+"author": {
+"name": "Gradie, Jonathan"
+},
+"organization": {
+"name": "Cornell University",
+"location": "Ithaca, NY, United States"
+}
+},
+"id": "48ad59f8dd6f4b0494eac1ca4bb4cc9a"
+},
+{
+"sequence": 4,
+"submissionId": 19870036046,
+"meta": {
+"author": {
+"name": "Hunten, Donald M."
+},
+"organization": {
+"name": "Arizona, University",
+"location": "Tucson, United States"
+}
+},
+"id": "0808a7e70fcd4ae7894cef7bb08ae3fe"
+}
+],
+"disseminated": "METADATA_ONLY",
+"stiTypeDetails": "Conference Proceedings",
+"technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+"modified": "2011-08-18T00:00:00.0000000+00:00",
+"id": 19870036046,
+"publications": [
+{
+"submissionId": 19870036046,
+"id": "bd8237ef87cf491ab663b0ccd4b228ce",
+"publicationDate": "1986-01-01T00:00:00.0000000+00:00"
+}
+],
+"status": "CURATED",
+"related": [],
+"downloads": [],
+"downloadsAvailable": false,
+"index": "submissions-2022-09-30-06-07"
+}
+]
+]
